@@ -187,6 +187,5 @@ Monty Files:
 
 ## Autors
 
-* **Samuel Martinez** - [samuelsrmv](https://github.com/samuelsrmv)
+* **Amanuel bogale** - (https://github.com/ZAmanuel)
 
-* **Jordan Buitrago Sandoval** - [drc288](https://github.com/drc288)
